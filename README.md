@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **nyeinminhtet.dev@gmail.com**
 
-- ⚡ Fun fact **I think I'm not good at programming but I like coding**
+- ⚡ Fun fact: **I think I'm not good at programming but I still doing.**
 
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Frontend<p align="left">
