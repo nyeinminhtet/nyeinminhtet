@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [www.nyeinminhtet.com](https://www.nyeinminhtet.com)
+- 👨‍💻 Who am I ? [here](https://www.nyeinminhtet.com)
 
 - 📫 How to reach me **nyeinminhtet.dev@gmail.com**
 
