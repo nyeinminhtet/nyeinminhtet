@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Nyein Min Htet</h1>
 <h3 align="center">A passionate full-stack developer from Myanmar</h3>
 
-- 🌱 I’m currently learning  **ReactNative** for cross-platform.
+- 🌱 I’m currently learning  **ReactNative** for Mobile.
 
-- 👨‍💻 Who am I ? [here](https://nmh-dev.vercel.app/)
+- 👨‍💻 Who am I ? [here](https://www.nyeinminhtet.com)
 
 - 📫 How to reach me **nyeinminhtet.dev@gmail.com**
 
