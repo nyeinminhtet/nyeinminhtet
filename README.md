@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nyein Min Htet</h1>
-<h3 align="center">A passionate Javascript full-stack developer from Myanmar</h3>
-
 # 💫 About Me:
 🔭 I’m currently working  as a Frontend Developer<br>🤝 I’m looking for help with Javascript<br>⚡ Fun fact: I think I am not good at programming but I'm still doing
 
