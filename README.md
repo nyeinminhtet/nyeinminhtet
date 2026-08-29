@@ -1,33 +1,36 @@
 <h1 align="center">Hi 👋, I'm Nyein Min Htet</h1>
 
 <p align="center">
-  <strong>Frontend Developer | React & Next.js Specialist</strong>
+  <strong>Frontend & Full-Stack JavaScript Developer</strong><br>
+  Crafting high-performance web applications, fluid interactive UIs, and AI-powered digital products.
 </p>
 
-<p align="center">
-  I’m a web and mobile developer who enjoys turning ideas into real applications. I specialize in building high-performance web applications using modern technologies like <b>Next.js, TypeScript, and Tailwind CSS</b>. I’m always exploring new ways to create seamless digital experiences and professional UI designs.
-</p>
-
-<p align="center">
-  <a href="https://github.com/nyeinminhtet">
-    <img src="https://github-readme-stats.vercel.app/api?username=nyeinminhtet&show_icons=true&theme=radical" alt="Nyein Min Htet's GitHub stats" />
-  </a>
-</p>
 
 ---
 
 ### 🚀 Tech Stack
 
-- **Frontend:** React, Next.js (App Router), TypeScript, Tailwind CSS
-- **Animation & UI:** GSAP, Framer Motion, Shadcn UI
-- **Backend & Tools:** Node.js, MongoDB, Git, Zod
+- **Frontend:** Next.js (App Router), React, React Native, TypeScript, Tailwind CSS
+- **Animation & UI:** GSAP, Framer Motion, Shadcn UI, Radix UI
+- **Backend & Database:** Node.js, Express, PostgreSQL, MongoDB, Redis, Prisma, GraphQL, Laravel
+- **Tools & Utilities:** Git, Zod, React Query, Redux Toolkit, BullMQ, PgBouncer
 
-### 🛠️ Current Focus
-- 🔭 Working on **SaaS Products** and AI-powered tools.
-- 🌱 Learning more about **Full-stack development** and **Software Engineering**.
-- ⚡ Building micro-efficiency tools to speed up developer workflows.
+---
+
+### ⚡ What I Do
+
+- 🔭 Currently building **AI-powered SaaS platforms** and high-concurrency web applications at **Moden**.
+- 🛠️ Developing micro-efficiency AI tools (like Gemini-powered personal finance trackers & chat assistants).
+- 🌱 Continuously expanding skills toward **Full-Stack Architecture** and **Senior Software Engineering**.
+
+
+---
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/nyeinminhtet/)
-- 📧 [Email](mailto:nyeinminhtet.dev@gmail.com)
-- 🌐 [Portfolio](https://nyeinminhtet.vercel.app/)
+
+- 🌐 **Portfolio:** [nyeinminhtet.vercel.app](https://nyeinminhtet.vercel.app/)
+- 💼 **LinkedIn:** [Nyein Min Htet](https://www.linkedin.com/in/nyeinminhtet/)
+- ✈️ **Telegram:** [@coding_nmh](https://t.me/coding_nmh)
+- 💬 **Discord:** [coding_nmh](https://discordapp.com/users/1021781066765303828)
+- 📱 **WhatsApp:** [Message me](https://wa.me/959796938980)
+- 📧 **Email:** [nyeinminhtet.dev@gmail.com](mailto:nyeinminhtet.dev@gmail.com)
