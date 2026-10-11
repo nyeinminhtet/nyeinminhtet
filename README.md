@@ -42,7 +42,7 @@ Crafting high-performance web applications, fluid interactive UIs, and AI-powere
 
 - 🌐 **Portfolio:** [nyeinminhtet.vercel.app](https://nyeinminhtet.vercel.app/)
 - 💼 **LinkedIn:** [Nyein Min Htet](https://www.linkedin.com/in/nyeinminhtet/)
-- ✈️ **Telegram:** [@coding_nmh](https://t.me/coding_nmh)
+- ✈️ **Telegram:** [@coding_nmh](https://t.me/who_is_nmh)
 - 💬 **Discord:** [coding_nmh](https://discordapp.com/users/1021781066765303828)
 - 📱 **WhatsApp:** [Message me](https://wa.me/959796938980)
 - 📧 **Email:** [nyeinminhtet.dev@gmail.com](mailto:nyeinminhtet.dev@gmail.com)
